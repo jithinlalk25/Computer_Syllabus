@@ -1,0 +1,21 @@
+<android.support.v7.widget.Toolbar
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    style="@style/ToolBarStyle"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="#6d716d"
+    android:minHeight="@dimen/abc_action_bar_default_height_material"
+    app:title="Computer Science"
+    app:titleTextAppearance="@android:style/TextAppearance.DeviceDefault.SearchResult.Title"
+    app:titleTextColor="@android:color/white" >
+    <Spinner
+        android:id="@+id/spinner"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:dropDownWidth="40dp"
+        android:clickable="true"
+        android:layout_gravity="right"
+        android:gravity="center_vertical|center_horizontal" />
+</android.support.v7.widget.Toolbar>

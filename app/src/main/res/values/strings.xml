@@ -1,0 +1,2021 @@
+<resources>
+    <string name="app_name">KTU CSE</string>
+    <string name="drawer_open">Menu opened</string>
+    <string name="drawer_close">Menu closed</string>
+    <string name="action_settings">Settings</string>
+    <string name="linear" formatted="false">
+MA201 - LINEAR ALGEBRA AND COMPLEX ANALYSIS
+        \n\nMODULE 1 - 15%
+        \n\nComplex differentiation Text 1[13.3,13.4]
+\nLimit, continuity and derivative of complex functions
+Analytic Functions
+Cauchy–Riemann Equation(Proof of sufficient condition of
+analyticity and C R Equations in polar form not required)-Laplace’s
+Equation
+Harmonic functions, Harmonic Conjugate
+\n\nMODULE 2 - 15%
+        \n\nConformal mapping: Text 1[17.1-17.4]
+\nGeometry of Analytic functions Conformal Mapping,
+Mapping w = z^2 conformality of w = e^z .
+The mapping w = z + 1/z
+Properties of w = 1/z
+
+Circles and straight lines, extended complex plane, fixed points
+Special linear fractional Transformations, Cross Ratio, Cross Ratio
+property-Mapping of disks and half planes
+Conformal mapping by w = sin z and w = cos z
+
+(Assignment: Application of analytic
+functions in Engineering)
+\n\nFIRST INTERNAL EXAMINATION
+\n\nMODULE 3 - 15%
+        \n\nComplex Integration. Text 1[14.1-14.4] [15.4,16.1]
+\nDefinition Complex Line Integrals, First Evaluation Method, Second
+Evaluation Method
+Cauchy’s Integral Theorem(without proof), Independence of
+path(without proof), Cauchy’s Integral Theorem for Multiply
+Connected Domains (without proof)
+Cauchy’s Integral Formula- Derivatives of Analytic
+Functions(without proof)Application of derivative of Analytical
+Functions
+Taylor and Maclaurin series(without proof), Power series as Taylor
+series, Practical methods(without proof)
+Laurent’s series (without proof)
+\n\nMODULE 4 - 15%
+        \n\nResidue Integration Text 1 [16.2-16.4]
+\nSingularities, Zeros, Poles, Essential singularity, Zeros of analytic
+functions
+Residue Integration Method, Formulas for Residues, Several
+singularities inside the contour Residue Theorem.
+Evaluation of Real Integrals (i) Integrals of rational functions of
+sin x and cos x (ii)Integrals of the type
+integral(-infinity to +infinity)(f(x)dx) (Type I, Integrals
+from 0 to infinity )
+( Assignment : Application of Complex integration in Engineering)
+\n\nSECOND INTERNAL EXAMINATION
+\n\nMODULE 5 - 20%
+\n\nLinear system of Equations Text 1(7.3-7.5)
+\nLinear systems of Equations, Coefficient Matrix, Augmented Matrix
+
+Gauss Elimination and back substitution, Elementary row operations,
+Row equivalent systems, Gauss elimination-Three possible cases,
+Row Echelon form and Information from it.
+
+Linear independence-rank of a matrix
+
+Vector Space-Dimension-basis-vector spaceR
+
+Solution of linear systems, Fundamental theorem of non-
+homogeneous linear systems(Without proof)-Homogeneous linear
+systems (Theory only
+\n\nMODULE 6 - 20%
+        \n\nMatrix Eigen value Problem Text 1.(8.1,8.3,8.4)
+\nDetermination of Eigen values and Eigen vectors-Eigen space
+Symmetric, Skew Symmetric and Orthogonal matrices –simple
+properties (without proof)
+Basis of Eigen vectors- Similar matrices Diagonalization of a matrix-
+Quadratic forms- Principal axis theorem(without proof)
+(Assignment-Some applications of Eigen values(8.2))
+\n\nEND SEMESTER EXAM
+\n\nQUESTION PAPER PATTERN
+\n\nMaximum Marks : 100
+\nExam Duration: 3 hours
+\nThe question paper will consist of 3 parts.
+\nPart A will have 3 questions of 15 marks each uniformly covering modules I and II. Each
+question may have two sub questions.
+\nPart B will have 3 questions of 15 marks each uniformly covering modules III and IV. Each
+question may have two sub questions.
+\nPart C will have 3 questions of 20 marks each uniformly covering modules V and VI. Each
+question may have three sub questions.
+\nAny two questions from each part have to be answered.
+  \n\nCourse Objectives
+
+\n\n• To equip the students with methods of solving a general system of linear equations.
+\n• To familiarize them with the concept of Eigen values and diagonalization of a matrix which have
+many applications in Engineering.
+\n• To understand the basic theory of functions of a complex variable and conformal Transformations.
+\n\nSyllabus
+\n\nAnalyticity of complex functions-Complex differentiation-Conformal mappings-Complex
+integration-System of linear equations-Eigen value problem
+\n\nExpected Outcome
+\n\nAt the end of the course students will be able to
+\n(i) solve any given system of linear equations
+\n(ii) find the Eigen values of a matrix and how to diagonalize a matrix
+\n(iii) identify analytic functions and Harmonic functions.
+\n(iv)evaluate real definite Integrals as application of Residue Theorem
+\n(v) identify conformal mappings(vi) find regions that are mapped under certain Transformations
+\n\nText Book
+\n\nErwin Kreyszig: Advanced Engineering Mathematics, 10 th ed. Wiley
+\n\nReferences
+\n\n1.Dennis g Zill and Patric D Shanahan-A first Course in Complex Analysis with Applications-Jones and Bartlet
+Publishers
+\n2.B. S. Grewal. Higher Engineering Mathematics, Khanna Publishers, New Delhi.
+\n3.Lipschutz, Linear Algebra,3e ( Schaums Series)McGraw Hill Education India 2005
+\n4.Complex variables introduction and applications-second edition-Mark.J.Owitz-Cambridge Publication\n
+    </string>
+    <string name="discrete" formatted="false">
+        CS201 - DISCRETE COMPUTATIONAL STRUCTURES
+        \n\nMODULE 1 - 15%
+        \n\nReview of elementary set theory :
+Algebra of sets – Ordered pairs and Cartesian products –
+Countable and Uncountable sets
+Relations :-
+Relations on sets –Types of relations and their properties –
+Relational matrix and the graph of a relation – Partitions –
+Equivalence relations - Partial ordering- Posets – Hasse
+diagrams - Meet and Join – Infimum and Supremum
+Functions :-
+Injective, Surjective and Bijective functions - Inverse of a
+function- Composition
+\n\nMODULE 2 - 15%
+        \n\nReview of Permutations and combinations, Principle of
+inclusion exclusion, Pigeon Hole Principle,
+Recurrence Relations:
+Introduction- Linear recurrence relations with constant
+coefficients– Homogeneous solutions – Particular solutions –
+Total solutions
+Algebraic systems:-
+Semigroups and monoids - Homomorphism, Subsemigroups
+and submonoids
+\n\nFIRST INTERNAL EXAM
+\n\nMODULE 3 - 15%
+        \n\nAlgebraic systems (contd...):-
+Groups, definition and elementary properties, subgroups,
+Homomorphism and Isomorphism, Generators - Cyclic Groups,
+Cosets and Lagrange’s Theorem
+Algebraic systems with two binary operations- rings, fields-sub
+rings, ring homomorphism
+\n\nMODULE 4 - 15%
+        \n\nLattices and Boolean algebra :-
+Lattices –Sublattices – Complete lattices – Bounded Lattices -
+Complemented Lattices – Distributive Lattices – Lattice
+Homomorphisms.
+Boolean algebra – sub algebra, direct product and
+homomorphisms
+\n\nSECOND INTERNAL EXAM
+\n\nMODULE 5 - 20%
+        \n\nPropositional Logic:-
+Propositions – Logical connectives – Truth tables
+Tautologies and contradictions – Contra positive – Logical
+        equivalences and implications
+
+Rules of inference: Validity of arguments.
+\n\nMODULE 6 - 20%
+        \n\nPredicate Logic:-
+Predicates – Variables – Free and bound variables – Universal
+and Existential Quantifiers – Universe of discourse.
+Logical equivalences and implications for quantified statements
+– Theory of inference : Validity of arguments
+Proof techniques:
+Mathematical induction and its variants – Proof by Contradiction
+– Proof by Counter Example – Proof by Contra positive.
+
+\n\nEND SEMESTER EXAM
+
+        \n\nQuestion Paper Pattern
+\n\n1. There will be five parts in the question paper – A, B, C, D, E
+\n2. Part A
+\na. Total marks : 12
+\nb. Four questions each having 3 marks, uniformly covering module I and II; All
+four questions have to be answered.
+\n3. Part B
+\na. Total marks : 18
+\nb. Three questions each having 9 marks, uniformly covering module I and II; Two
+questions have to be answered. Each question can have a maximum of three
+subparts
+\n4. Part C
+\na. Total marks : 12
+\nb. Four questions each having 3 marks, uniformly covering module III and IV; All
+four questions have to be answered.
+\n5. Part D
+\na. Total marks : 18
+\nb. Three questions each having 9 marks, uniformly covering module III and IV; Two
+questions have to be answered. Each question can have a maximum of three
+subparts
+\n6. Part E
+\na. Total Marks: 40
+\nb. Six questions each carrying 10 marks, uniformly covering modules V and VI; four
+questions have to be answered.
+\nc. A question can have a maximum of three sub-parts.
+\n7. There should be at least 60% analytical/numerical questions.
+  \n\nCourse Objectives
+\n\n1. To introduce mathematical notations and concepts in discrete mathematics that is
+essential for computing.
+\n2. To train on mathematical reasoning and proof strategies.
+\n3. To cultivate analytical thinking and creative problem solving skills.
+\n\nSyllabus
+\n\nReview of Set theory, Countable and uncountable Sets, Review of Permutations and
+combinations, Pigeon Hole Principle, Recurrence Relations and Solutions, Algebraic systems
+(semigroups, monoids, groups, rings, fields), Posets and Lattices, Prepositional and Predicate
+Calculus, Proof Techniques.
+\n\nExpected Outcome
+\n\nStudents will be able to
+\n1. identify and apply operations on discrete structures such as sets, relations and functions
+in different areas of computing.
+\n2. verify the validity of an argument using propositional and predicate logic.
+\n3. construct proofs using direct proof, proof by contraposition, proof by contradiction and
+proof by cases, and by mathematical induction.
+\n4. solve problems using algebraic structures.
+\n5. solve problems using counting techniques and combinatorics.
+\n6. apply recurrence relations to solve problems in different domains.
+\n\nText Books
+\n\n1. Trembly J.P and Manohar R, “Discrete Mathematical Structures with Applications to
+Computer Science”, Tata McGraw–Hill Pub.Co.Ltd, New Delhi, 2003.
+\n2. Ralph. P. Grimaldi, “Discrete and Combinatorial Mathematics: An Applied
+Introduction”, 4/e, Pearson Education Asia, Delhi, 2002.
+\n\nReferences
+\n\n1. Liu C. L., “Elements of Discrete Mathematics”, 2/e, McGraw–Hill Int. editions, 1988.
+\n2. Bernard Kolman, Robert C. Busby, Sharan Cutler Ross, “Discrete Mathematical
+Structures”, Pearson Education Pvt Ltd., New Delhi, 2003
+\n3. Kenneth H.Rosen, “Discrete Mathematics and its Applications”, 5/e, Tata McGraw – Hill
+Pub. Co. Ltd., New Delhi, 2003.
+\n4. Richard Johnsonbaugh, “Discrete Mathematics”, 5/e, Pearson Education Asia, New
+Delhi, 2002.
+\n5. Joe L Mott, Abraham Kandel, Theodore P Baker, “Discrete Mathematics for Computer
+Scientists and Mathematicians”, 2/e, Prentice-Hall India, 2009.\n
+    </string>
+    <string name="switching" formatted="false">
+        CS203 - SWITCHING THEORY AND LOGIC DESIGN
+        \n\nMODULE 1 - 15%
+        \n\nNumber systems – Decimal, Binary, Octal and
+Hexadecimal – conversion from one system to another –
+representation of negative numbers – representation of
+BCD numbers – character representation – character
+coding schemes – ASCII – EBCDIC etc.
+Addition, subtraction, multiplication and division of
+binary numbers (no algorithms). Addition and subtraction
+of BCD, Octal and Hexadecimal numbers.
+Representation of floating point numbers – precision –
+addition, subtraction, multiplication and division of
+floating point numbers
+\n\nMODULE 2 - 15%
+        \n\nIntroduction — Postulates of Boolean algebra – Canonical
+and Standard Forms — logic functions and gates
+methods of minimization of logic functions — Karnaugh
+map method and QuinMcClusky method
+Product-of-Sums
+Conditions.
+Simplification
+—
+Don’t-Care
+        \n\nMODULE 3 - 15%
+\n\nCombinational Logic: combinational Circuits and design
+Procedure — binary adder and subtractor — multi—level
+NAND and NOR circuits — Exclusive-OR and
+Equivalence Functions.
+Implementation of combination logic: parallel adder,
+carry look ahead adder, BCD adder, code converter,
+magnitude comparator, decoder, multiplexer, de-
+multiplexer, parity generator.
+        \n\nMODULE 4 - 15%
+\n\nSequential logic circuits: latches and flip-flops – edge-
+triggering and level-triggering — RS, JK, D and T flip-
+flops — race condition — master-slave flip-flop.
+
+Clocked sequential circuits: state diagram — state
+reduction and assignment — design with state equations
+\n\nMODULE 5 - 20%
+        \n\nRegisters: registers with parallel load - shift registers
+universal shift registers – application: serial adder.
+
+Counters: asynchronous counters — binary and BCD
+ripple counters — timing sequences — synchronous
+counters — up-down counter, BCD counter, Johnson
+counter — timing sequences and state diagrams.
+\n\nMODULE 6 - 20%
+        \n\nMemory and Programmable Logic: Random-Access
+Memory (RAM)—Memory Decoding—Error Detection
+and Correction — Read only Memory (ROM),
+Programmable Logic Array (PLA).
+HDL: fundamentals,
+multiplexer.
+combinational
+logic,
+adder,
+Arithmetic algorithms: Algorithms for addition and
+subtraction of binary and BCD numbers, algorithms for
+floating point addition and subtraction.
+\n\nQuestion Paper Pattern
+\n\n1. There will be five parts in the question paper – A, B, C, D, E
+\n2. Part A
+\na. Total marks : 12
+\nb. Four questions each having 3 marks, uniformly covering module I and II; All
+four questions have to be answered.
+\n3. Part B
+\na. Total marks : 18
+\nb. Three questions each having 9 marks, uniformly covering module I and II;
+Two questions have to be answered. Each question can have a maximum of
+three subparts
+\n4. Part C
+\na. Total marks : 12
+\nb. Four questions each having 3 marks, uniformly covering module III and IV;
+All four questions have to be answered.
+\n5. Part D
+\na. Total marks : 18
+\nb. Three questions each having 9 marks, uniformly covering module III and IV;
+Two questions have to be answered. Each question can have a maximum of
+three subparts
+\n6. Part E
+\na. Total Marks: 40
+\nb. Six questions each carrying 10 marks, uniformly covering modules V and VI;
+four questions have to be answered.
+\nc. A question can have a maximum of three sub-parts.
+\n7. There should be at least 60% analytical/design/numerical questions.
+  \n\nCourse Objectives
+\n\n1. To impart an understanding of the basic concepts of Boolean algebra and digital systems.
+\n2. To impart familiarity with the design and implementation of different types of practically used
+sequential circuits.
+\n3. To provide an introduction to use Hardware Description Language
+\n\nSyllabus
+\n\nIntroduction to Number Systems, Boolean Algebra, Canonical Forms, Logic Gates, Digital Circuit
+Design, Combination Logic Circuit Design, Sequential Circuit Design, Registers, Counter, Memory
+modules, Programmable Logical Arrays, Hardware Description Language for Circuit Design,
+Arithmetic algorithms
+\n\nExpected Outcome
+\n\nStudents will be able to:-
+\n1. apply the basic concepts of Boolean algebra for the simplification and implementation of logic
+functions using suitable gates namely NAND, NOR etc.
+\n2. design simple Combinational Circuits such as Adders, Subtractors, Code Convertors, Decoders,
+Multiplexers, Magnitude Comparators etc.
+\n3. design Sequential Circuits such as different types of Counters, Shift Registers, Serial Adders,
+Sequence Generators.
+\n4. use Hardware Description Language for describing simple logic circuits.
+\n5. apply algorithms for addition/subtraction operations on Binary, BCD and Floating Point
+Numbers.
+\n\nText Books
+\n\n1. Mano M. M., Digital Logic and Computer Design, 4/e, Pearson Education, 2013. [Chapters:
+1, 2, 3, 4, 5, 6, 7].
+\n2. Floyd T. L., Digital Fundamentals, 10/e, Pearson Education, 2009. [Chapters: 5, 6].
+\n3. M. Morris Mano, Computer System Architecture, 3/e, Pearson Education, 2007. [Chapter
+10.1, 10.2, 10.5, 10.6, 10.7].
+\n4. Harris D. M. and, S. L. Harris, Digital Design and Computer Architecture, 2/e, Morgan
+Kaufmann Publishers, 2013 [Chapter 4.1, 4.2]
+\n\nReferences
+\n\n1. Tokheim R. L., Digital Electronics Principles and Applications, 7/e, Tata McGraw Hill,
+2007.
+\n2. Mano M. M. and M. D Ciletti, Digital Design, 4/e, Pearson Education, 2008.
+\n3. Rajaraman V. and T. Radhakrishnan, An Introduction to Digital Computer Design, 5/e,
+Prentice Hall India Private Limited, 2012.
+\n4. Leach D, Malvino A P, Saha G, Digital Principles and Applications, 8/e, McGraw Hill
+Education, 2015.\n
+    </string>
+    <string name="data" formatted="false">
+        CS205 - DATA STRUCTURES
+        \n\nMODULE 1 - 15%
+        \n\nIntroduction to programming methodologies – structured
+approach, stepwise refinement techniques, programming style,
+documentation – analysis of algorithms: frequency count,
+definition of Big O notation, asymptotic analysis of simple
+algorithms. Recursive and iterative algorithms.
+\n\nMODULE 2 - 15%
+        \n\nAbstract and Concrete Data Structures- Basic data structures –
+vectors and arrays. Applications, Linked lists:- singly linked
+list, doubly linked list, Circular linked list, operations on
+linked list, linked list with header nodes, applications of linked
+list: polynomials,.
+        \n\nMODULE 3 - 15%
+        \n\nApplications of linked list (continued): Memory management,
+memory allocation and de-allocation. First-fit, best-fit and
+worst-fit allocation schemes
+Implementation of Stacks and Queues using arrays and linked
+list, DEQUEUE (double ended queue). Multiple Stacks and
+Queues, Applications.
+\n\nMODULE 4 - 15%
+        \n\nString: - representation of strings, concatenation, substring
+searching and deletion.
+
+Trees: - m-ary Tree, Binary Trees – level and height of the
+tree, complete-binary tree representation using array, tree
+traversals (Recursive and non-recursive), applications. Binary
+search tree – creation, insertion and deletion and search
+operations, applications.
+\n\nMODULE 5 - 20%
+        \n\nGraphs – representation of graphs, BFS and DFS (analysis not
+required) applications.
+Sorting techniques – Bubble sort, Selection Sort, Insertion sort,
+Merge sort, Quick sort, Heaps and Heap sort. Searching
+algorithms (Performance comparison expected. Detailed
+analysis not required)
+\n\nMODULE 6 - 20%
+        \n\nLinear and Binary search. (Performance comparison expected.
+Detailed analysis not required)
+Hash Tables – Hashing functions – Mid square, division,
+folding, digit analysis, collusion resolution and Overflow
+handling techniques.
+        \n\nQuestion Paper Pattern
+\n\n1. There will be five parts in the question paper – A, B, C, D, E
+\n2. Part A
+\na. Total marks : 12
+\nb. Four questions each having 3 marks, uniformly covering module I and II; All
+four questions have to be answered.
+\n3. Part B
+\na. Total marks : 18
+\nb. Three questions each having 9 marks, uniformly covering module I and II;
+Two questions have to be answered. Each question can have a maximum of
+three subparts
+\n4. Part C
+\na. Total marks : 12
+\nb. Four questions each having 3 marks, uniformly covering module III and IV;
+All four questions have to be answered.
+\n5. Part D
+\na. Total marks : 18
+\nb. Three questions each having 9 marks, uniformly covering module III and IV;
+Two questions have to be answered. Each question can have a maximum of
+three subparts
+\n6. Part E
+\na. Total Marks: 40
+\nb. Six questions each carrying 10 marks, uniformly covering modules V and VI;
+four questions have to be answered.
+\nc. A question can have a maximum of three sub-parts.
+\n7. There should be at least 60% analytical/numerical/design questions.
+  \n\nCourse Objectives
+\n\nTo impart a thorough understanding of linear data structures such as stacks, queues and their
+applications.
+\n2. To impart a thorough understanding of non-linear data structures such as trees, graphs and their
+applications.
+\n3. To impart familiarity with various sorting, searching and hashing techniques and their
+performance comparison.
+\n4. To impart a basic understanding of memory management.
+
+\n\nSyllabus
+\n\nIntroduction to various programming methodologies, terminologies and basics of algorithms
+analysis, Basic Abstract and Concrete Linear Data Structures, Non-linear Data Structures, Memory
+Management, Sorting Algorithms, Searching Algorithms, Hashing.
+\n\nExpected Outcome
+\n\nStudents will be able to
+\n1. compare different programming methodologies and define asymptotic notations to analyze
+performance of algorithms.
+\n2. use appropriate data structures like arrays, linked list, stacks and queues to solve real world
+problems efficiently.
+\n3. represent and manipulate data using nonlinear data structures like trees and graphs to design
+algorithms for various applications.
+\n4. illustrate and compare various techniques for searching and sorting.
+\n5. appreciate different memory management techniques and their significance.
+\n6. illustrate various hashing techniques.
+\n\nText Books
+\n\n1. Samanta D., Classic Data Structures, Prentice Hall India, 2/e, 2009.
+\n2. Richard F. Gilberg, Behrouz A. Forouzan, Data Structures: A Pseudocode Approach with C,
+2/e, Cengage Learning, 2005.
+\n\nReferences
+\n\n1. Horwitz E., S. Sahni and S. Anderson, Fundamentals of Data Structures in C, University Press
+(India), 2008.
+\n2. Aho A. V., J. E. Hopcroft and J. D. Ullman, Data Structures and Algorithms, Pearson
+Publication,1983.
+\n3. Tremblay J. P. and P. G. Sorenson, Introduction to Data Structures with Applications, Tata
+McGraw Hill, 1995.
+\n4. Peter Brass, Advanced Data Structures, Cambridge University Press, 2008
+\n5. Lipschuts S., Theory and Problems of Data Structures, Schaum’s Series, 1986.
+\n6. Wirth N., Algorithms + Data Structures = Programs, Prentice Hall, 2004.
+\n7. Hugges J. K. and J. I. Michtm, A Structured Approach to Programming, PHI, 1987.
+\n8. Martin Barrett, Clifford Wagner, And Unix: Tools For Software Design, John Wiley, 2008
+reprint.\n
+    </string>
+    <string name="electronics" formatted="false">
+        CS207 - ELECTRONIC DEVICES AND CIRCUITS
+\n\nMODULE 1 - 15%
+        \n\nWave shaping circuits: Sinusoidal and non-sinusoidal wave
+shapes, Principle and working of RC differentiating and
+integrating circuits, Conversion of one non-sinusoidal wave
+shape into another.
+Clipping circuits - Positive, negative and biased clipper.
+
+Clamping circuits - Positive, negative and biased clamper.
+Voltage multipliers- Voltage doubler and tripler.
+Simple sweep circuit using transistor as a switch.
+\n\nMODULE 2 - 15%
+        \n\nRegulated power supplies: Review of simple zener voltage
+regulator, Shunt and series voltage regulator using transistors,
+Current limiting and fold back protection, 3 pin regulators-78XX
+and 79XX, IC 723 and its use as low and high voltage regulators,
+DC to DC conversion, Circuit/block diagram and working of
+SMPS.
+Field effect transistors: JFET – Structure, principle of
+operation and characteristics, Comparison with BJT.
+MOSFET- Structure, Enhancement and Depletion types,
+principle of operation and characteristics.
+\n\nFIRST INTERNAL EXAM
+\n\nMODULE 3 - 15%
+        \n\nAmplifiers: Introduction to transistor biasing, operating point,
+concept of load line, thermal stability, fixed bias, self bias,
+voltage divider bias. Classification of amplifiers, RC coupled
+amplifier - voltage gain and frequency response. Multistage
+amplifiers - effect of cascading on gain and bandwidth.
+Feedback in amplifiers - Effect of negative feedback on
+amplifiers.
+
+MOSFET Amplifier- Circuit diagram and working of common
+source MOSFET amplifier.
+\n\nMODULE 4 - 15%
+\n\nOscillators: Classification, criterion for oscillation, analysis of
+Wien bridge oscillator, Hartley and Crystal oscillator.
+Non-sinusoidal oscillators: Astable, monostable and bi-stable
+multivibrators using transistors (Only design equations and
+working of circuit are required, Analysis not required).
+
+\n\nSECOND INTERNAL EXAM
+\n\nMODULE 5 - 20%
+        \n\nOperational amplifiers: Differential amplifier, characteristics
+of op-amps(gain, bandwidth, slew rate, CMRR, offset voltage,
+offset current),
+comparison of ideal and practical op-
+amp(IC741), applications of op-amps- scale changer, sign
+changer, adder/summing amplifier, subtractor, integrator,
+differentiator,
+Schmitt trigger, Wien bridge oscillator.
+\n\nMODULE 6 - 20%
+\n\nIntegrated circuits: Active filters – Low pass and high pass
+(first and second order) active filters using op-amp with gain (No
+analysis required).
+D/A and A/D convertors – important specifications, Sample and
+hold circuit.
+Binary weighted resistor and R-2R ladder type D/A convertors.
+(concepts only).
+Flash, dual slope and successive approximation type A/D
+convertors.
+Circuit diagram and working of Timer IC555, astable and
+monostablemultivibrators using 555.
+
+\n\nEND SEMESTER EXAM
+\n\nQuestion Paper Pattern
+\n\n1. There will be five parts in the question paper – A, B, C, D, E
+\n2. Part A
+\na. Total marks : 12
+\nb. Four questions each having 3 marks, uniformly covering module I and II; All
+four questions have to be answered.
+\n3. Part B
+\na. Total marks : 18
+\nb. Three questions each having 9 marks, uniformly covering module I and II;
+Two questions have to be answered. Each question can have a maximum of
+three subparts
+\n4. Part C
+\na. Total marks : 12
+\nb. Four questions each having 3 marks, uniformly covering module III and IV;
+All four questions have to be answered.
+\n5. Part D
+\na. Total marks : 18
+\nb. Three questions each having 9 marks, uniformly covering module III and IV;
+Two questions have to be answered. Each question can have a maximum of
+three subparts
+\n6. Part E
+\na. Total Marks: 40
+\nb. Six questions each carrying 10 marks, uniformly covering modules V and VI;
+four questions have to be answered.
+\nc. A question can have a maximum of three sub-parts.
+\n7. There should be at least 60% analytical/numerical/design questions.
+        \n\nPre-requisite: BE101-04 Introduction to Electronics Engg.
+\n\nCourse Objectives
+\n\n1. To introduce to the students the fundamental concepts of electronic devices and circuits
+for engineering applications
+\n2. To develop the skill of analysis and design of various analog circuits using electronic
+devices
+\n3. To provide comprehensive idea about working principle, operation and applications of
+electronic circuits
+\n4. To equip the students with a sound understanding of fundamental concepts of operational
+amplifiers
+\n5. To expose to the diversity of operations that operational amplifiers can perform in a wide
+range of applications
+\n6. To expose to a variety of electronic circuits/systems using various analog ICs
+\n\nSyllabus
+\n\nRC Circuits, Diode Circuits, Regulated power supplies, Field effect transistor, DC analysis of
+BJT, RC Coupled amplifier, MOSFET amplifiers, Feedback amplifiers, Power amplifiers,
+Oscillators, Multivibrators, Operational Amplifier and its applications, Timer IC.
+\n\nExpected Outcome
+\n\nStudents will be able to
+\n1. explain, illustrate, and design the different electronic circuits using electronic
+components
+\n2. design circuits using operational amplifiers for various applications
+\n\nText Books
+\n\n1. David A Bell, Electronic Devices and Circuits, Oxford University Press, 2008
+\n2. Salivahanan S. and V. S. K. Bhaaskaran, Linear Integrated Circuits, Tata McGraw Hill,
+2008
+\n\nReferences
+\n\n1. Neamen D., Electronic Circuits, Analysis and Design, 3/e, TMH, 2007
+\n2. Robert Boylestad and L Nashelsky, Electronic Devices and Circuit Theory, Pearson.
+\n3. Bogart T. F., Electronic Devices Circuits, 6/e, Pearson, 2012.
+\n4. Maini A. K. and V. Agrawal, Electronic Devices and Circuits, Wiley India, 2011.
+\n5. K.Gopakumar, Design and Analysis of Electronic Circuits, Phasor Books, Kollam, 2013
+\n6. Millman J. and C. Halkias, Integrated Electronics, 2/e, McGraw-Hill, 2010.\n
+    </string>
+    <string name="lifeskill" formatted="false">
+        HS210 - LIFE SKILLS
+        \n\nMODULE 1
+\n\nNeed for Effective Communication, Levels of communication;
+Flow of communication; Use of language in communication;
+Communication networks; Significance of technical
+communication, Types of barriers; Miscommunication; Noise;
+Overcoming measures,
+Listening as an active skill; Types of Listeners; Listening for
+general content; Listening to fill up information; Intensive
+Listening; Listening for specific information; Developing
+effective listening skills; Barriers to effective listening skills.
+Technical Writing: Differences between technical and literary
+style, Elements of style; Common Errors, Letter Writing:
+Formal, informal and demi-official letters; business letters, Job
+Application: Cover letter, Differences between bio-data, CV
+and Resume, Report Writing: Basics of Report Writing;
+Structure of a report; Types of reports.
+Non-verbal Communication and Body Language: Forms
+of non-verbal communication; Interpreting body-language
+cues; Kinesics; Proxemics; Chronemics; Effective use of body
+language
+Interview Skills: Types of Interviews; Ensuring success in job
+interviews; Appropriate use of non-verbal communication,
+Group Discussion: Differences between group discussion and
+debate; Ensuring success in group discussions, Presentation
+Skills: Oral presentation and public speaking skills; business
+presentations,
+Technology-based
+Communication:
+Netiquettes: effective e-mail messages; power-point
+presentation; enhancing editing skills using computer
+software.
+        \n\nMODULE 2
+        \n\nNeed for Creativity in the 21 st century, Imagination, Intuition,
+Experience, Sources of Creativity, Lateral Thinking, Myths of
+creativity
+Critical thinking Vs Creative thinking, Functions of Left
+Brain and Right brain, Convergent and Divergent Thinking,
+Critical reading and Multiple Intelligence.
+Steps in problem solving, Problem Solving Techniques,
+Problem Solving through Six Thinking Hats, Mind Mapping,
+Forced Connections.
+Problem Solving strategies, Analytical Thinking and
+quantitative reasoning expressed in written form, Numeric,
+symbolic, and graphic reasoning, Solving application
+problems.
+        \n\nMODULE 3
+        \n\nIntroduction to Groups and Teams, Team Composition,
+Managing Team Performance, Importance of Group, Stages of
+Group, Group Cycle, Group thinking, getting acquainted,
+Clarifying expectations.
+Group Problem Solving, Achieving Group Consensus.
+Group Dynamics techniques, Group vs Team, Team
+Dynamics, Teams for enhancing productivity, Building and
+Managing Successful Virtual Teams. Managing Team
+Performance and Managing Conflict in Teams.
+Working Together in Teams, Team Decision-Making, Team
+Culture and Power, Team Leader Development.
+\n\nMODULE 4
+        \n\nMorals, Values and Ethics, Integrity, Work Ethic, Service
+Learning, Civic Virtue, Respect for Others, Living Peacefully.
+Caring, Sharing, Honesty, Courage,
+Cooperation, Commitment, Empathy,
+Character,
+Valuing Time,
+Self-Confidence,
+Spirituality, Senses of Engineering Ethics’, variety of moral
+issued, Types of inquiry, moral dilemmas, moral autonomy,
+Kohlbergs theory, Gilligans theory, Consensus and
+controversy, Models of Professional Roles, Theories about
+right action, Self-interest, customs and religion, application of
+ethical theories.
+Engineering as experimentation, engineers as responsible
+experimenters, Codes of ethics, Balanced outlook on.
+The challenger case study, Multinational corporations,
+Environmental ethics, computer ethics,
+Weapons development, engineers as managers, consulting
+engineers, engineers as expert witnesses and advisors, moral
+leadership, sample code of Ethics like ASME, ASCE, IEEE,
+Institution of Engineers(India), Indian Institute of Materials
+Management, Institution of electronics and telecommunication
+engineers(IETE), India, etc.
+        \n\nMODULE 5
+        \n\nIntroduction, a framework for considering leadership,
+entrepreneurial and moral leadership, vision, people selection
+and development, cultural dimensions of leadership, style,
+followers, crises.
+Growing as a leader, turnaround leadership, gaining control,
+trust, managing diverse stakeholders, crisis management
+Implications of national culture and multicultural leadership
+Types of Leadership, Leadership Traits.
+Leadership Styles, VUCA Leadership, DART Leadership,
+Transactional vs Transformational Leaders, Leadership Grid,
+Effective Leaders, making of a Leader, Formulate Leadership
+    \n\nEND SEMESTER EXAM
+
+\n\nEVALUATION SCHEME
+\n\nInternal Evaluation
+\n(Conducted by the College)
+\nTotal Marks: 100
+\n\nPart – A
+\n(To be started after completion of Module 1 and to be completed by 30 th working day of the semester)
+\n1. Group Discussion – Create groups of about 10 students each and engage them on a
+GD on a suitable topic for about 20 minutes. Parameters to be used for evaluation is
+as follows;
+\n(i)Communication Skills – 10 marks
+\n(ii)Subject Clarity – 10 marks
+\n(iii)Group Dynamics - 10 marks
+\n(iv)Behaviors and Mannerisms - 10 marks
+        \n(Marks: 40)
+        \n\nPart – B
+\n(To be started from 31 st working day and to be completed before 60 th working day of the semester)
+\n2. Presentation Skills – Identify a suitable topic and ask the students to prepare a
+presentation (preferably a power point presentation) for about 10 minutes. Parameters
+to be used for evaluation is as follows;
+        \n(i)Communication Skills* - 10 marks
+\n(ii)Platform Skills** - 10 marks
+\n(iii)Subject Clarity/Knowledge - 10 marks
+\n(Marks: 30)
+\n* Language fluency, auditability, voice modulation, rate of speech, listening, summarizes key
+learnings etc.
+\n** Postures/Gestures, Smiles/Expressions, Movements, usage of floor area etc.
+  \n\nPart – C
+\n(To be conducted before the termination of semester)
+\n3. Sample Letter writing or report writing following the guidelines and procedures.
+Parameters to be used for evaluation is as follows;
+\n(i)Usage of English and Grammar - 10 marks
+\n(ii)Following the format - 10 marks
+\n(iii)Content clarity - 10 marks
+\n(Marks: 30)
+\n\nExternal Evaluation
+\n(Conducted by the University)
+\nTotal Marks: 50
+\nTime: 2 hrs
+        \n\nPart – A
+\nShort Answer questions
+\nThere will be one question from each area (five questions in total) will be asked for the
+examination. Each question should be written in about maximum of 400 words. Parameters to
+be used for evaluation are as follows;
+\n(i)Content Clarity/Subject Knowledge
+\n(ii)Presentation style
+\n(iii)Organization of content
+\n(Marks: 5 x 6 = 30)
+        \n\nPart – B
+\nCase Study
+\nThe students will be given a case study with questions at the end the students have to analyze
+the case and answer the question at the end. Parameters to be used for evaluation are as
+follows;
+\n(i)Analyze the case situation
+\n(ii)Key players/characters of the case
+\n(iii)Identification of the problem (both major and minor if exists)
+\n(iv)Bring out alternatives
+\n(v)Analyze each alternative against the problem
+\n(vi)Choose the best alternative
+\n(vii)Implement as solution
+\n(viii)Conclusion
+\n(ix)Answer the question at the end of the case
+\n(Marks: 1 x 20 = 20)
+   \n\nCourse Objectives
+\n\n•To develop communication competence in prospective engineers.
+\n•To enable them to convey thoughts and ideas with clarity and focus.
+\n•To develop report writing skills.
+\n•To equip them to face interview and Group Discussion.
+\n•To inculcate critical thinking process.
+\n•To prepare them on problem solving skills
+        \n•To provide symbolic, verbal, and graphical interpretations of statements in a problem
+description.
+\n•To understand team dynamics and effectiveness.
+\n•To create an awareness on Engineering Ethics and Human Values.
+\n•To instill Moral and Social Values, Loyalty and also to learn to appreciate the rights of
+others.
+\n•To learn leadership qualities and practice them.
+\n\nSyllabus
+\n\nCommunication Skill: Introduction to Communication, The Process of Communication, Barriers
+to Communication, Listening Skills, Writing Skills, Technical Writing, Letter Writing, Job
+Application, Report Writing, Non-verbal Communication and Body Language, Interview Skills,
+Group Discussion, Presentation Skills, Technology-based Communication.
+Critical Thinking and Problem Solving: Creativity, Lateral thinking, Critical thinking, Multiple
+Intelligence, Problem Solving, Six thinking hats Mind Mapping and Analytical Thinking.
+Teamwork: Groups, Teams, Group Vs Teams, Team formation process, Stages of Group, Group
+Dynamics, Managing Team Performance and Team Conflicts.
+Ethics, Moral and Professional Values: Human Values, Civic Rights, Engineering Ethics,
+Engineering as Social Experimentation, Environmental Ethics, Global Issues, Code of Ethics like
+ASME, ASCE, IEEE.
+Leadership Skills: Leadership, Levels of Leadership, Making of a leader, Types of leadership,
+Transactions Vs Transformational Leadership, VUCA Leaders, DART Leadership, Leadership
+Grid and leadership Formulation.
+\n\nExpected Outcome
+\n\n•Communicate effectively.
+\n•Make effective presentations.
+\n•Write different types of reports.
+\n•Face interview and group discussion.
+\n•Critically think on a particular problem.
+\n•Solve problems.
+\n•Work in Group and Teams
+\n•Handle Engineering Ethics and Human Values.
+\n•Become an effective leader.References:
+\n•Barun K. Mitra; (2011), “Personality Development and Soft Skills”, First Edition; Oxford
+Publishers.
+\n•Kalyana; (2015) “Soft Skill for Managers”; First Edition; Wiley Publishing Ltd.
+\n•Larry James (2016); “The First Book of Life Skills”; First Edition; Embassy Books.
+\n•Shalini Verma (2014); “Development of Life Skills and Professional Practice”; First
+Edition; Sultan Chand (G/L) and Company
+\n•John C. Maxwell (2014); “The 5 Levels of Leadership”, Centre Street, A division of
+Hachette Book Group Inc.\n
+    </string>
+    <string name="business" formatted="false">
+HS200 - BUSINESS ECONOMICS
+        \n\nMODULE 1 - 15%
+        \n\nBusiness Economics and its role in managerial decision making-
+meaning-scope-relevance-economic problems-scarcity Vs choice (2
+Hrs)-Basic concepts in economics-scarcity, choice, resource
+allocation- Trade-off-opportunity cost-marginal analysis- marginal
+utility theory, Law of diminishing marginal utility -production
+possibility curve (2 Hrs)
+\n\nMODULE 2 - 15%
+\n\nBasics of Micro Economics I Demand and Supply analysis-
+equillibrium-elasticity (demand and supply) (3 Hrs.) -Production
+concepts-average product-marginal product-law of variable
+proportions- Production function-Cobb Douglas function-problems
+(3 Hrs.)
+\n\nFIRST INTERNAL EXAM
+\n\nMODULE 3 - 15%
+\n\nBasics of Micro Economics II Concept of costs-marginal, average,
+fixed, variable costs-cost curves-shut down point-long run and short
+run (3 Hrs.)- Break Even Analysis-Problem-Markets-Perfect
+Competition, Monopoly and Monopolistic Competition, Oligopoly-
+Cartel and collusion (3 Hrs.).
+\n\nMODULE 4 - 15%
+\n\nBasics of Macro Economics - Circular flow of income-two sector
+and multi-sector models- National Income Concepts-Measurement
+methods-problems-Inflation, deflation (4 Hrs.)-Trade cycles-Money-
+stock and flow concept-Quantity theory of money-Fischer’s Equation
+and Cambridge Equation -velocity of circulation of money-credit
+control methods-SLR, CRR, Open Market Operations-Repo and
+Reverse Repo rate-emerging concepts in money-bit coin (4 Hrs.).
+\n\nSECOND INTERNAL EXAM
+\n\nMODULE 5 - 20%
+\n\nBusiness Decisions I-Investment analysis-Capital Budgeting-NPV,
+IRR, Profitability Index, ARR, Payback Period (5 Hrs.)- Business
+decisions under certainty-uncertainty-selection of alternatives-risk
+and sensitivity- cost benefit analysis-resource management (4 Hrs.).
+\n\nMODULE 6 - 20%
+\n\nBusiness Decisions II Balance sheet preparation-principles and
+interpretation-forecasting techniques (7 Hrs.)-business financing-
+sources of capital- Capital and money markets-international
+financing-FDI, FPI, FII-Basic Principles of taxation-direct tax,
+indirect tax-GST (2 hrs.).
+\n\nEND SEMESTER EXAM
+        \n\nQuestion Paper Pattern
+\n\nMax. marks: 100,
+\nTime: 3 hours
+\nThe question paper shall consist of three parts
+\nPart A
+\n4 questions uniformly covering modules I and II. Each question carries 10 marks
+Students will have to answer any three questions out of 4 (3X10 marks =30 marks)
+\nPart B
+\n4 questions uniformly covering modules III and IV. Each question carries 10 marks
+Students will have to answer any three questions out of 4 (3X10 marks =30 marks)
+\nPart C
+\n6 questions uniformly covering modules V and VI. Each question carries 10 marks
+Students will have to answer any four questions out of 6 (4X10 marks =40 marks)
+\n\nNote: In all parts, each question can have a maximum of four sub questions, if needed.
+    \n\nCourse Objectives
+\n\n1.To familiarize the prospective engineers with elementary Principles of Economics and
+Business Economics.
+\n2.To acquaint the students with tools and techniques that are useful in their profession in
+Business Decision Making which will enhance their employability;
+\n3.To apply business analysis to the “firm” under different market conditions;
+\n4.To apply economic models to examine current economic scenario and evaluate policy
+options for addressing economic issues
+\n5.To gain understanding of some Macroeconomic concepts to improve their ability to
+understand the business climate;
+\n6.To prepare and analyse various business tools like balance sheet, cost benefit analysis and
+rate of returns at an elementary level
+\n\nSyllabus
+\n\nBusiness Economics - basic concepts, tools and analysis, scarcity and choices , resource
+allocation, marginal analysis, opportunity costs and production possibility curve. Fundamentals of
+microeconomics - Demand and Supply Analysis, equilibrium, elasticity, production and
+production function, cost analysis, break-even analysis and markets. Basics of macroeconomics -
+the circular flow models, national income analysis, inflation, trade cycles, money and credit, and
+monetary policy. Business decisions - investment analysis, Capital Budgeting decisions,
+forecasting techniques and elementary Balance Sheet and taxation, business financing,
+international investments
+\n\nExpected Outcome
+\n\nA student who has undergone this course would be able to
+\ni. make investment decisions based on capital budgeting methods in alignment with
+microeconomic and macroeconomic theories.
+\nii. able to analyse the profitability of the firm, economy of operation, determination of price
+under various market situations with good grasp on the effect of trade cycles in business.
+\niii. gain knowledge on Monetary theory, measures by RBI in controlling interest rate and
+emerging concepts like Bit Coin.
+\niv.gain knowledge of elementary accounting concepts used for preparing balance sheet and
+interpretation of balance sheet
+\n\nText Books
+\n\n1. Geetika, Piyali Ghosh and Chodhury, Managerial Economics, Tata McGraw Hill, 2015
+\n2. Gregory Mankiw, Principles of Macroeconomics, Cengage Learning, 2006.
+\n3. M.Kasi Reddy and S.Saraswathi, Economics and Financial Accounting. Prentice Hall of
+India. New Delhi.
+        \n\nReferences
+\n\n1. Dornbusch, Fischer and Startz, Macroeconomics, McGraw Hill, 11th edition, 2010.
+\n2. Khan M Y, Indian Financial System, Tata McGraw Hill, 7th edition, 2011.
+\n3. Samuelson, Managerial Economics, 6 th edition, Wiley
+\n4. Snyder C and Nicholson W, Fundamentals of Microeconomics, Cengage Learning (India),
+2010.
+\n5. Truett, Managerial Economics: Analysis, Problems, Cases, 8 th Edition, Wiley
+\n6. Welch, Economics: Theory and Practice 7 th Edition, Wiley
+\n7. Uma Kapila, Indian Economy Since Independence, 26th Edition: A Comprehensive and
+Critical Analysis of Indias Economy, 1947-2015
+\n8. C Rangarajan, Indian Economy, Essays on monetary and finance, UBS
+Publishers’Distributors, 1998
+\n9. A.Ramachandra Aryasri, Managerial Economics and Financial Analysis, Tata McGraw-
+Hill, New Delhi.
+\n10. Dominick Salvatore, Managerial Economics in Global Economy, Thomas Western
+College Publishing, Singapore.
+\n11. I.M .Pandey, Financial Management, Vikas Publishing House. New Delhi.
+\n12. Dominick Salvatore, Theory and Problems of Micro Economic Theory. Tata Mac Graw-
+Hill, New Delhi.
+\n13. T.N.Hajela.Money, Banking and Public Finance. Anne Books. New Delhi.
+\n14. G.S.Gupta. Macro Economics-Theory and Applications. Tata Mac Graw- Hill, New Delhi.
+\n15. Yogesh, Maheswari, Management Economics , PHI learning, NewDelhi, 2012
+\n16. Timothy Taylor , Principles of Economics, 3rdedition, TEXTBOOK MEDIA.
+\n17. Varshney and Maheshwari. Managerial Economics. Sultan Chand. New Delhi\n
+    </string>
+    <string name="datalab" formatted="false">
+        CS231 - DATA STRUCTURES LAB
+        \n\nList of Exercises/Experiments
+        \n(Minimum 12 are to be done)
+\n\n1. Implementation of Stack and Multiple stacks using one dimensional array. **
+\n2. Application problems using stacks: Infix to post fix conversion, postfix and pre-fix
+evaluation, MAZE problem etc. **
+\n3. Implementation of Queue, DEQUEUE and Circular queue using arrays.
+\n4. Implementation of various linked list operations. **
+\n5. Implementation of stack, queue and their applications using linked list.
+\n6. Implementation of trees using linked list
+\n7. Representation of polynomials using linked list, addition and multiplication of
+polynomials. **
+\n8. Implementation of binary trees using linked lists and arrays- creations, insertion, deletion
+and traversal. **
+\n9. Implementation of binary search trees – creation, insertion, deletion, search
+\n10. Application using trees
+\n11. Implementation of sorting algorithms – bubble, insertion, selection, quick (recursive and
+non-recursive), merge sort (recursive and non-recursive), and heap sort.**
+\n12. Implementation of searching algorithms – linear search, binary search.**
+\n13. Representation of graphs and computing various parameters (in degree, out degree etc.) -
+adjacency list, adjacency matrix.
+\n14. Implementation of BFS, DFS for each representation.
+\n15. Implementation of hash table using various mapping functions, various collision and
+overflow resolving schemes.**
+\n16. Implementation of various string operations.
+        \n17. Simulation of first-fit, best-fit and worst-fit allocations.
+\n18. Simulation of a basic memory allocator and garbage collector using doubly linked list.
+\n\n** mandatory.
+\n\nExpected Outcome
+\n\nStudents will be able to:
+\n1. appreciate the importance of structure and abstract data type, and their basic usability in
+different applications
+\n2. analyze and differentiate different algorithms based on their time complexity.
+\n3. implement linear and non-linear data structures using linked lists.
+\n4. understand and apply various data structure such as stacks, queues, trees, graphs, etc. to
+solve various computing problems.
+\n5. implement various kinds of searching and sorting techniques, and decide when to choose
+which technique.
+\n6. identify and use a suitable data structure and algorithm to solve a real world problem.
+  \n\nPre-requisite: CS205 Data structures
+\n\nCourse Objectives
+\n\n1. To implement basic linear and non-linear data structures and their major operations.
+\n2. To implement applications using these data structures.
+\n3. To implement algorithms for various sorting techniques.\n
+    </string>
+    <string name="electronicslab" formatted="false">
+        CS233 - ELECTRONICS CIRCUITS LAB
+        \n\nList of Exercises/Experiments
+\n(Minimum 13 experiments are to be done in the semester, at least 6 each should be selected from
+the first(Exp. 1-10) and second(Exp. 11-20) half. Experiment no. 18 is compulsory).
+\n\n1. Forward and reverse characteristics of PN diode and Zener diode
+\n2. Input and output characteristics of BJT in CE configuration and evaluation of parameters
+\n3. RC integrating and differentiating circuits-Transient response with different time constant
+\n4. RC low pass and high pass circuits- Frequency response with sinusoidal input
+\n5. Clipping circuits (Positive, negative and biased) - Transient and transfer characteristics
+\n6. Clamping circuits (Positive, negative and biased)- Transient characteristics
+\n7. Bridge Rectifier - with and without filter- ripple factor and regulation
+\n8. Simple Zener regulator- Line and load characteristics
+\n9. RC coupled CE amplifier – Mid band gain and frequency response
+\n10. RC phase shift or Wien bridge oscillator using transistor
+\n11. Astable and Monostable multivibrators using transistors
+\n12. Series voltage regulator (Two transistors)- Line and load characteristics
+\n13. Voltage regulator using LM 723)- Line and load characteristics
+\n14. Astable and mono stable multivibrators using 555 Timer
+\n15. Inverting and non-inverting amplifier using op-amp IC741
+\n16. Instrumentation amplifier using op-amp IC741
+\n17. RC phase shift or Wien bridge oscillator using op-amp IC741
+\n18. Simulation of simple circuits (at least 6 from above) using any SPICE software(Transient,
+AC and DC analysis)
+        \n\nExpected Outcome
+\n\nStudents will be able to:
+\n1. identify basic electronic components, design and develop electronic circuits.
+\n2. Design and demonstrate functioning of various discrete analog circuits
+\n3. Be familiar with computer simulation of electronic circuits and how to use it proficiently
+for design and development of electronic circuits.
+\n4. Understand the concepts and their applications in engineering.
+\n5. Communicate effectively the scientific procedures and explanations in formal technical
+presentations/reports.
+   \n\nPre-requisite: CS207 Electronic devices and circuits
+\n\nCourse Objectives
+\n\n1. To introduce the working of analog electronic circuits.
+\n2. To design, implement and demonstrate analog circuits using electronic components.
+\n3. To provide hands-on experience to the students so that they are able to put theoretical
+concepts to practice.
+\n4. To use computer simulation tools such as PSPICE, or Multisim to the simulation of
+electronic circuits.
+\n5. To create an ability to develop descriptions, explanations, predictions and models using
+evidence .
+\n6. To create an ability to communicate effectively the scientific procedures and explanations
+about the experiments in oral/report forms.\n
+    </string>
+    <string name="probability" formatted="false">
+        MA202 - PROBABILITY DISTRIBUTIONS, TRANSFORMS AND NUMERICAL METHODS
+        \n\nMODULE 1 - 15%
+        \n\nDiscrete Probability Distributions. (Relevant topics in
+section 4.1,4,2,4.4,4.6 Text1 )
+Discrete Random Variables, Probability distribution function,
+Cumulative distribution function.
+Mean and Variance of Discrete Probability Distribution.
+Binomial Distribution-Mean and variance.
+Poisson Approximation to the Binomial Distribution. Poisson
+distribution-Mean and variance.
+\n\nMODULE 2 - 15%
+        \n\nContinuous Probability Distributions. (Relevant topics in
+section 5.1,5.2,5.5,5.7 Text1)
+Continuous Random Variable, Probability density function,
+Cumulative density function, Mean and variance.
+Normal Distribution, Mean and variance (without proof).
+Uniform Distribution.Mean and variance.
+Exponential Distribution, Mean and variance.
+\n\nFIRST INTERNAL EXAMINATION
+\n\nMODULE 3 - 15%
+        \n\nFourier Integrals and transforms. (Relevant topics in section
+11.7, 11.8, 11.9 Text2)
+Fourier Integrals. Fourier integral theorem (without proof).
+Fourier Transform and inverse transform.
+Fourier Sine and Cosine Transform, inverse transform.
+        \n\nMODULE 4 - 15%
+        \n\nLaplace transforms. (Relevant topics in section
+6.1,6.2,6.3,6.5,6.6 Text2)
+        Laplace Transforms, linearity, first shifting Theorem.
+Transform of derivative and Integral, Inverse Laplace
+transform, Solution of ordinary differential equation using
+Laplace transform.
+Unit step function, second shifting theorem.
+Convolution Theorem (without proof).
+Differentiation and Integration of transforms.
+\n\nSECOND INTERNAL EXAMINATION
+\n\nMODULE 5 - 20%
+        \n\nNumerical Techniques.( Relevant topics in
+section.19.1,19.2,19.3 Text2)
+Solution Of equations by Iteration, Newton- Raphson Method.
+Interpolation of Unequal intervals-Lagrange’s Interpolation
+formula.
+Interpolation of Equal intervals-Newton’s forward difference
+formula, Newton’s Backward difference formula.
+\n\nMODULE 6 - 20%
+        \n\nNumerical Techniques. ( Relevant topics in section
+19.5,20.1,20.3, 21.1 Text2)
+Solution to linear System- Gauss Elimination, Gauss Seidal
+Iteration Method.
+Numeric Integration-Trapezoidal Rule, Simpson’s 1/3 Rule.
+Numerical solution of firstorder ODE-Euler method,
+Runge-Kutta Method (fourth order).
+\n\nEND SEMESTER EXAM
+    \n\nQUESTION PAPER PATTERN
+\n\nMaximum Marks : 100
+\nExam Duration: 3 hours
+\nThe question paper will consist of 3 parts.
+\nPart A will have 3 questions of 15 marks each uniformly covering modules I and II. Each
+question may have two sub questions.
+\nPart B will have 3 questions of 15 marks each uniformly covering modules III and IV. Each
+question may have two sub questions.
+\nPart C will have 3 questions of 20 marks each uniformly covering modules V and VI. Each
+question may have three sub questions.
+\nAny two questions from each part have to be answered.
+  \n\nCourse Objectives
+\n\n1.To introduce the concept of random variables, probability distributions, specific discrete
+and continuous distributions with practical application in various Engineering and social
+life situations.
+\n2.To know Laplace and Fourier transforms which has wide application in all Engineering
+courses.
+\n3.To enable the students to solve various engineering problems using numerical methods.
+\n\nSyllabus
+\n\nDiscrete random variables and Discrete Probability Distribution.
+Continuous Random variables and Continuous Probability Distribution.
+Fourier transforms.
+Laplace Transforms.
+Numerical methods-solution of Algebraic and transcendental Equations, Interpolation.
+Numerical solution of system of Equations. Numerical Integration, Numerical solution of
+ordinary differential equation of First order.
+\n\nExpected Outcome
+\n\nAfter the completion of the course student is expected to have concept of
+\n(i) Discrete and continuous probability density functions and special probability distributions.
+\n(ii) Laplace and Fourier transforms and apply them in their Engineering branch
+\n(iii) numerical methods and their applications in solving Engineering problems.
+\n\nText Books
+\n\n1. Miller and Freund’s “Probability and statistics for Engineers”-Pearson-Eighth Edition.
+th
+\n2. Erwin Kreyszig, “Advanced Engineering Mathematics”, 10 edition, Wiley, 2015.
+\n\nReferences
+\n\n1. V. Sundarapandian, “Probability, Statistics and Queuing theory”, PHI Learning, 2009.
+\n2. C. Ray Wylie and Louis C. Barrett, “Advanced Engineering Mathematics”-Sixth Edition.
+\n3. Jay L. Devore, “Probability and Statistics for Engineering and Science”-Eight Edition.
+\n4. Steven C. Chapra and Raymond P. Canale, “Numerical Methods for Engineers”-Sixth
+Edition-Mc Graw Hill.\n
+    </string>
+    <string name="computer" formatted="false">
+        CS202 - COMPUTER ORGANIZATION AND ARCHITECTURE
+        \n\nMODULE 1 - 15%
+        \n\nBasic Structure of computers–functional units –
+basic operational concepts –bus structures –
+software. Memory locations and addresses –
+memory operations – instructions and instruction
+sequencing – addressing modes – ARM Example
+(programs not required). Basic I/O operations –
+stacks subroutine calls.
+\n\nMODULE 2 - 15%
+        \n\nBasic processing unit – fundamental concepts –
+instruction cycle - execution of a complete
+instruction –multiple- bus organization –
+sequencing of control signals.
+Arithmetic algorithms: Algorithms for
+multiplication and division of binary and BCD
+numbers — array multiplier —Booth’s
+multiplication algorithm — restoring and non-
+restoring division — algorithms for floating point,
+multiplication and division.
+\n\nFIRST INTERNAL EXAMINATION
+\n\nMODULE 3 - 15%
+        \n\nI/O organization: accessing of I/O devices –
+interrupts –direct memory access –buses –interface
+circuits –standard I/O interfaces (PCI, SCSI, USB)
+\n\nMODULE 4 - 15%
+        \n\nMemory system : basic concepts –semiconductor
+RAMs –memory system considerations –
+semiconductor ROMs –flash memory –cache
+memory and mapping functions.
+\n\nSECOND INTERNAL EXAMINATION
+\n\nMODULE 5 - 20%
+        \n\nProcessor Logic Design: Register transfer logic –
+inter register transfer – arithmetic, logic and shift
+micro operations –conditional control statements.
+Processor organization:–design of arithmetic unit,
+logic unit, arithmetic logic unit and shifter –status
+register –processor unit –design of accumulator.
+\n\nMODULE 6 - 20%
+        \n\nControl Logic Design: Control organization –
+design of hardwired control –control of processor
+unit –PLA control. Micro-programmed control:
+Microinstructions –horizontal and vertical micro
+instructions – micro-program sequencer –micro
+programmed CPU organization.
+\n\nEND SEMESTER EXAM
+    \n\nQuestion Paper Pattern
+\n\n1. There will be five parts in the question paper – A, B, C, D, E
+\n2. Part A
+\na. Total marks : 12
+\nb. Four questions each having 3 marks, uniformly covering module I and II; All
+four questions have to be answered.
+\n3. Part B
+\na. Total marks : 18
+\nb. Three questions each having 9 marks, uniformly covering module I and II;
+Two questions have to be answered. Each question can have a maximum of
+three subparts
+\n4. Part C
+\na. Total marks : 12
+\nb. Four questions each having 3 marks, uniformly covering module III and IV;
+All four questions have to be answered.
+\n5. Part D
+\na. Total marks : 18
+\nb. Three questions each having 9 marks, uniformly covering module III and IV;
+Two questions have to be answered. Each question can have a maximum of
+three subparts
+\n6. Part E
+\na. Total Marks: 40
+\nb. Six questions each carrying 10 marks, uniformly covering modules V and VI;
+four questions have to be answered.
+\nc. A question can have a maximum of three sub-parts.
+\n7. There should be at least 60% analytical/numerical/design questions.
+        \n\nPre-requisite: CS203 Switching theory and logic design
+\n\nCourse Objectives
+\n\n1. To impart an understanding of the internal organization and operations of a computer.
+\n2. To introduce the concepts of processor logic design and control logic design.
+\n\nSyllabus
+\n\nFundamental building blocks and functional units of a computer. Execution phases of an
+instruction. Arithmetic Algorithms. Design of the processing unit – how arithmetic and logic
+operations are performed. Design of the control unit – hardwired and microprogrammed
+control. I/O organisation – interrupts, DMA, different interface standards. Memory
+Subsystem – different types.
+\n\nExpected Outcome
+\n\nStudents will be able to:
+\n1. identify the basic structure and functional units of a digital computer.
+\n2. analyze the effect of addressing modes on the execution time of a program.
+\n3. design processing unit using the concepts of ALU and control logic design.
+\n4. identify the pros and cons of different types of control logic design in processors.
+\n5. select appropriate interfacing standards for I/O devices.
+\n6. identify the roles of various functional units of a computer in instruction execution.
+\n\nText Books
+\n\n1. Hamacher C., Z. Vranesic and S. Zaky, Computer Organization ,5/e, McGraw Hill,
+2011.
+\n2. Mano M. M., Digital Logic and Computer Design, 4/e, Pearson Education, 2013.
+\n\nReferences
+\n\n1. Mano M. M., Digital Logic and Computer Design, 4/e, Pearson Education, 2013.
+\n2. Patterson D.A. and J. L. Hennessey, Computer Organization and Design, 5/e, Morgan
+Kauffmann Publishers, 2013.
+\n3. William Stallings, Computer Organization and Architecture: Designing for
+Performance, Pearson, 9/e, 2013.
+\n4. Chaudhuri P., Computer Organization and Design, 2/e, Prentice Hall, 2008.
+\n5. Rajaraman V. and T. Radhakrishnan, Computer Organization and Architecture,
+Prentice Hall, 2011.
+\n6. Messmer H. P., The Indispensable PC Hardware Book, 4/e, Addison-Wesley, 2001\n
+    </string>
+    <string name="operating" formatted="false">
+       CS204 - OPERATING SYSTEMS
+        \n\nMODULE 1 - 15%
+\n\nIntroduction: Functions of an operating system.
+Single processor, multiprocessor and clustered
+systems – overview. Kernel Data Structures –
+Operating Systems used in different computing
+environments.
+Operating
+System
+Interfaces
+and
+implementation - User Interfaces, System Calls –
+examples. Operating System implementation -
+approaches. Operating System Structure –
+Monolithic, Layered, Micro-kernel, Modular.
+System Boot process.
+\n\nMODULE 2 - 15%
+        \n\nProcess Management: Process Concept –
+Processes-States – Process Control Block –
+Threads. Scheduling – Queues – Schedulers –
+Context Switching. Process Creation and
+Termination.
+Inter Process Communication: Shared Memory,
+Message Passing, Pipes.
+\n\nFIRST INTERNAL EXAMINATION
+\n\nMODULE 3 - 15%
+        \n\nProcess Synchronization: Critical Section-
+Petersons solution. Synchronization – Locks,
+Semaphores, Monitors, Classical Problems –
+Producer Consumer, Dining Philosophers and
+Readers-Writers Problems
+\n\nMODULE 4 - 15%
+        \n\nCPU Scheduling – Scheduling Criteria –
+Scheduling Algorithms.
+Deadlocks – Conditions, Modeling using graphs.
+Handling – Prevention – Avoidance – Detection-
+Recovery.
+\n\nSECOND INTERNAL EXAMINATION
+\n\nMODULE 5 - 20%
+        \n\nMemory Management: Main Memory – Swapping
+– Contiguous Memory allocation – Segmentation –
+Paging – Demand paging
+\n\nMODULE 6 - 20%
+        \n\nStorage Management: Overview of mass storage
+structure- disks and tapes. Disk structure –
+accessing disks. Disk scheduling and management.
+Swap Space.
+File System Interface: File Concepts – Attributes –
+operations – types – structure – access methods.
+File system mounting. Protection. File system
+implementation. Directory implementation –
+allocation methods. Free space Management.
+Protection– Goals, Principles, Domain. Access
+Matrix.
+\n\nEND SEMESTER EXAM
+        \n\nQuestion Paper Pattern
+\n\n1. There will be five parts in the question paper – A, B, C, D, E
+\n2. Part A
+\na. Total marks : 12
+\nb. Four questions each having 3 marks, uniformly covering module I and II; All
+four questions have to be answered.
+\n3. Part B
+\na. Total marks : 18
+\nb. Three questions each having 9 marks, uniformly covering module I and II;
+Two questions have to be answered. Each question can have a maximum of
+three subparts
+\n4. Part C
+\na. Total marks : 12
+\nb. Four questions each having 3 marks, uniformly covering module III and IV;
+All four questions have to be answered.
+\n5. Part D
+\na. Total marks : 18
+\nb. Three questions each having 9 marks, uniformly covering module III and IV;
+Two questions have to be answered. Each question can have a maximum of
+three subparts
+\n6. Part E
+\na. Total Marks: 40
+\nb. Six questions each carrying 10 marks, uniformly covering modules V and VI;
+four questions have to be answered.
+\nc. A question can have a maximum of three sub-parts.
+\n7. There should be at least 60% analytical/numerical/design questions.
+  \n\nPre-requisite: CS205 Data structures
+
+\n\nCourse Objectives
+\n\n1. To impart fundamental understanding of the purpose, structure, functions of operating
+system.
+\n2. To impart the key design issues of an operating system
+\n\nSyllabus
+\n\nBasic concepts of Operating System, its structure, Process management, inter-process
+communication, process synchronization, CPU Scheduling, deadlocks, Memory
+Management, swapping, segmentation, paging, Storage Management - disk scheduling,
+RAID, File System Interface-implementation. Protection.
+\n\nExpected Outcome
+\n\nStudents will be able to:
+\n1. identify the significance of operating system in computing devices.
+\n2. exemplify the communication between application programs and hardware devices
+through system calls.
+\n3. compare and illustrate various process scheduling algorithms.
+\n4. apply appropriate memory and file management schemes.
+\n5. illustrate various disk scheduling algorithms.
+\n6. appreciate the need of access control and protection in an operating system.
+\n\nText Book
+\n\n1. Abraham Silberschatz, Peter B Galvin, Greg Gagne, Operating System Concepts, 9/e,
+Wiley India, 2015.
+\n\nReferences
+\n\n1. Garry Nutt, Operating Systems: 3/e, Pearson Education, 2004
+\n2. Bhatt P. C. P., An Introduction to Operating Systems: Concepts and Practice, 3/e,
+Prentice Hall of India, 2010.
+\n3. William Stallings, Operating Systems: Internals and Design Principles, Pearson,
+Global Edition, 2015.
+\n4. Andrew S Tanenbaum, Herbert Bos, Modern Operating Systems, Pearson, 4/e, 2015.
+\n5. Madnick S. and J. Donovan, Operating Systems, McGraw Hill, 2001.
+\n6. Hanson P. B., Operating System Principle, Prentice Hall of India, 2001.
+\n7. Deitel H. M., An Introduction to Operating System Principles, Addison-Wesley,
+1990.\n
+    </string>
+    <string name="object" formatted="false">
+        CS206 - OBJECT ORIENTED DESIGN AND PROGRAMMING
+        \n\nMODULE 1 - 15%
+        \n\nObject oriented concepts, Object oriented
+systems development life cycle. Unified
+Modeling Language, UML class diagram, Use-
+case diagram.
+Java Overview: Java virtual machine, data types,
+operators, control statements, Introduction to
+Java programming.
+\n\nMODULE 2 - 15%
+        \n\nClasses fundamentals, objects, methods,
+constructors, parameter passing, overloading,
+access control keywords.
+\n\nFIRST INTERNAL EXAMINATION
+\n\nMODULE 3 - 15%
+        \n\nInheritance basics, method overriding, abstract
+classes, interface. Defining and importing
+packages. Exception handling fundamentals,
+multiple catch and nested try statements.
+\n\nMODULE 4 - 15%
+        \n\nInput/Output: files, stream classes, reading
+console input. Threads: thread model, use of
+Thread class and Runnable interface, thread
+synchronization, multithreading.
+\n\nSECOND INTERNAL EXAMINATION
+\n\nMODULE 5 - 20%
+        \n\nString class - basics.
+Applet basics and methods. Event Handling:
+delegation event model, event classes, sources,
+listeners.
+        \n\nMODULE 6 - 20%
+\n\nIntroduction to AWT: working with frames,
+graphics, color, font. AWT Control
+fundamentals. Swing overview. Java database
+connectivity: JDBC overview, creating and
+executing queries, dynamic queries.
+\n\nEND SEMESTER EXAM
+\n\nQuestion Paper Pattern
+\n\n1. There will be five parts in the question paper – A, B, C, D, E
+\n2. Part A
+\na. Total marks : 12
+\nb. Four questions each having 3 marks, uniformly covering module I and II; All
+four questions have to be answered.
+\n3. Part B
+\na. Total marks : 18
+\nb. Three questions each having 9 marks, uniformly covering module I and II;
+Two questions have to be answered. Each question can have a maximum of
+three subparts
+\n4. Part C
+\na. Total marks : 12
+\nb. Four questions each having 3 marks, uniformly covering module III and IV;
+All four questions have to be answered.
+\n5. Part D
+\na. Total marks : 18
+\nb. Three questions each having 9 marks, uniformly covering module III and IV;
+Two questions have to be answered. Each question can have a maximum of
+three subparts6. Part E
+\na. Total Marks: 40
+\nb. Six questions each carrying 10 marks, uniformly covering modules V and VI;
+four questions have to be answered.
+\nc. A question can have a maximum of three sub-parts.
+\n7. There should be at least 60% analytical/design questions.
+        \n\nPre-requisite: CS205 Data structures
+\n\nCourse Objectives
+\n\n1. To introduce basic concepts of object oriented design techniques.
+\n2. To give a thorough understanding of Java language.
+\n3. To provide basic exposure to the basics of multithreading, database connectivity etc.
+\n4. To impart the techniques of creating GUI based applications.
+\n\nSyllabus
+\n\nObject oriented concepts, Object oriented systems development life cycle, Unified Modeling
+Language, Java Overview, Classes and objects, Parameter passing, Overloading, Inheritance,
+Overriding, Packages, Exception Handling, Input/Output, Threads and multithreading,
+Applets, Event Handling mechanism, Working with frames and graphics, AWT Controls,
+Swings, Java database connectivity.
+\n\nExpected Outcome
+\n\nStudents will be able to:
+\n1. apply object oriented principles in software design process.
+\n2. develop Java programs for real applications using java constructs and libraries.
+\n3. understand and apply various object oriented features like inheritance, data
+abstraction, encapsulation and polymorphism to solve various computing problems
+using Java language.
+\n4. implement Exception Handling in java.
+\n5. use graphical user interface and Event Handling in java.
+\n6. develop and deploy Applet in java.
+\n\nText Books
+\n\n1. Herbert Schildt, Java: The Complete Reference, 8/e, Tata McGraw Hill, 2011.
+\n2. Bahrami A., Object Oriented Systems Development using the Unified Modeling
+Language, McGraw Hill, 1999.
+\n\nReferences
+\n\n1. Y. Daniel Liang, Introduction to Java Programming, 7/e, Pearson, 2013.
+\n2. Nageswararao R., Core Java: An Integrated Approach, Dreamtech Press, 2008.
+\n3. Flanagan D., Java in A Nutshell, 5/e, OReilly, 2005.
+\n4. Barclay K., J. Savage, Object Oriented Design with UML and Java, Elsevier, 2004.
+\n5. Sierra K., Head First Java, 2/e, OReilly, 2005.
+\n6. Balagurusamy E., Programming JAVA a Primer, 5/e, McGraw Hill, 2014.\n
+    </string>
+    <string name="principles" formatted="false">
+        CS208 - PRINCIPLES OF DATABASE DESIGN
+        \n\nMODULE 1 - 15%
+        \n\nIntroduction: Data: structured, semi-structured and unstructured
+data, Concept and Overview of DBMS, Data Models, Database
+Languages, Database Administrator, Database Users, Three
+Schema architecture of DBMS. Database architectures and
+classification. (Reading: Elmasri Navathe, Ch. 1 and 2. Additional
+Reading: Silbershatz, Korth, Ch. 1) Entity-Relationship Model:
+Basic concepts, Design Issues, Mapping Constraints, Keys, Entity-Relationship Diagram, Weak Entity Sets, Relationships of degree
+greater than 2 (Reading: Elmasri Navathe, Ch. 7.1-7.8)
+\n\nMODULE 2 - 15%
+        \n\nRelational Model: Structure of relational Databases, Integrity
+Constraints, synthesizing ER diagram to relational schema
+(Reading: Elmasri Navathe, Ch. 3 and 8.1, Additional Reading:
+Silbershatz, Korth, Ch. 2.1-2.4) Database Languages: Concept of
+DDL and DML relational algebra (Reading: Silbershatz, Korth,
+Ch 2.5-2.6 and 6.1-6.2, Elmasri Navathe, Ch. 6.1-6.5)
+\n\nFIRST INTERNAL EXAM
+\n\nMODULE 3 - 15%
+        \n\nStructured Query Language (SQL): Basic SQL Structure,
+examples, Set operations, Aggregate Functions, nested sub-queries
+(Reading: Elmasri Navathe, Ch. 4 and 5.1) Views, assertions and
+triggers (Reading: Elmasri Navathe, Ch. 5.2-5.3, Optional
+reading: Silbershatz, Korth Ch. 5.3).
+\n\nMODULE 4 - 15%
+        \n\nRelational Database Design: Different anomalies in designing a
+database, normalization, functional dependency (FD), Armstrong’s
+Axioms, closures, Equivalence of FDs, minimal Cover (proofs not
+required). Normalization using functional dependencies, INF,
+2NF, 3NF and BCNF, lossless and dependency preserving
+decompositions (Reading: Elmasri and Navathe, Ch. 14.1-14.5,
+15.1-15.2. Additional Reading: Silbershatz, Korth Ch. 8.1-8.5)
+\n\nSECOND INTERNAL EXAM
+\n\nMODULE 5 - 20%
+        \n\nPhysical Data Organization: index structures, primary, secondary
+and clustering indices, Single level and Multi-level indexing, B+-
+Trees (basic structure only, algorithms not needed), (Reading
+Elmasri and Navathe, Ch. 17.1-17.4) Query Optimization:
+heuristics-based query optimization, (Reading Elmasri and
+Navathe, Ch. 18.1, 18.7)
+\n\nMODULE 6 - 20%
+        \n\nTransaction Processing Concepts: overview of concurrency
+control and recovery acid properties, serial and concurrent
+schedules, conflict serializability. Two-phase locking, failure
+classification, storage structure, stable storage, log based recovery,
+deferred database modification, check-pointing, (Reading Elmasri
+and Navathe, Ch. 20.1-20.5 (except 20.5.4-20.5.5) , Silbershatz,
+Korth Ch. 15.1 (except 15.1.4-15.1.5), Ch. 16.1 – 16.5) Recent
+topics (preliminary ideas only): Semantic Web and
+RDF(Reading: Powers Ch.1, 2), GIS, biological databases
+(Reading:
+Elmasri and Navathe Ch. 23.3-23.4) Big Data
+(Reading: Plunkett and Macdonald, Ch. 1, 2)
+\n\nEND SEMESTER EXAM
+\n\nQuestion Paper Pattern
+\n\n1. There will be five parts in the question paper – A, B, C, D, E
+\n2. Part A
+\na. Total marks : 12
+\nb. Four questions each having 3 marks, uniformly covering module I and II; All
+four questions have to be answered.
+\n3. Part B
+\na. Total marks : 18
+\nb. Three questions each having 9 marks, uniformly covering module I and II;
+Two questions have to be answered. Each question can have a maximum of
+three subparts
+\n4. Part C
+\na. Total marks : 12
+\nb. Four questions each having 3 marks, uniformly covering module III and IV;
+All four questions have to be answered.
+\n5. Part D
+\na. Total marks : 18
+\nb. Three questions each having 9 marks, uniformly covering module III and IV;
+Two questions have to be answered. Each question can have a maximum of
+three subparts
+\n6. Part E
+\na. Total Marks: 40
+\nb. Six questions each carrying 10 marks, uniformly covering modules V and VI;
+four questions have to be answered.
+\nc. A question can have a maximum of three sub-parts.
+\n7. There should be at least 60% analytical/numerical/design questions.
+  \n\nPre-requisite: CS205 Data structures
+\n\nCourse Objectives
+\n\n1. To impart the basic understanding of the theory and applications of database management
+systems.
+\n2. To give basic level understanding of internals of database systems.
+\n3. To expose to some of the recent trends in databases.
+\n\nSyllabus
+\n\nTypes of data, database and DBMS, Languages and users. Software Architecture, E-R and
+Extended E-R Modelling, Relational Model – concepts and languages, relational algebra and tuple
+relational calculus, SQL, views, assertions and triggers, HLL interfaces, relational db design, FDs
+and normal forms, Secondary storage organization, indexing and hashing, query optimization,
+concurrent transaction processing and recovery principles, recent topics.
+\n\nExpected Outcome
+\n\nStudents will be able to:
+\n1. define, explain and illustrate the fundamental concepts of databases.
+\n2. construct an Entity-Relationship (E-R) model from specifications and to perform the
+transformation of the conceptual model into corresponding logical data structures.
+\n3. model and design a relational database following the design principles.
+\n4. develop queries for relational database in the context of practical applications
+\n5. define, explain and illustrate fundamental principles of data organization, query
+optimization and concurrent transaction processing.
+\n6. appreciate the latest trends in databases.
+\n\nText Books
+\n\n1. Elmasri R. and S. Navathe, Database Systems: Models, Languages, Design
+andApplication Programming, Pearson Education, 2013.
+\n2. Sliberschatz A., H. F. Korth and S. Sudarshan, Database System Concepts, 6/e, McGraw
+Hill, 2011.
+\n\nReferences
+\n\n1. Powers S., Practical RDF, O’Reilly Media, 2003.
+\n2. Plunkett T., B. Macdonald, et al., Oracle Big Data Hand Book, Oracle Press, 2013.\n
+    </string>
+    <string name="free" formatted="false">
+        CS232 - FREE AND OPEN SOURCE SOFTWARE LAB
+        \n\nList of Exercises/Experiments
+        \n(Minimum 12 exercises/experiments are mandatory)
+\n\n1. Getting started with Linux basic commands for directory operations, displaying directory
+structure in tree format etc.
+\n2. Linux commands for operations such as redirection, pipes, filters, job control, changing
+ownership/permissions of files/links/directory.
+\n3. Advanced linux commands curl, wget, ftp, ssh and grep
+\n4. Shell Programming : Write shell script to show various system configuration like
+\n•Currently logged user and his login name
+\n•Your current shell
+\n•Your home directory
+\n•Your operating system type
+\n•Your current path setting
+\n•Your current working directory
+\n•Number of users currently logged in
+\n5. Write shell script to show various system configurations like
+\n•your OS and version, release number, kernel version
+\n•all available shells
+\n•computer CPU information like processor type, speed etc
+\n•memory information
+\n•hard disk information like size of hard-disk, cache memory, model etc
+\n•File system (Mounted)
+\n6. Write a shell script to implement a menu driven calculator with following functions
+\n1. Addition
+\n2. Subtraction
+\n3. Multiplication
+\n4. Division
+\n5. Modulus
+\n7. Write a script called addnames that is to be called as follows
+./addnames ulist username
+Here ulist is the name of the file that contains list of user names and username is a
+particular students username. The script should
+\n•check that the correct number of arguments was received and print a message, in case the
+number of arguments is incorrect
+\n•check whether the ulist file exists and print an error message if it does not
+\n•check whether the username already exists in the file. If the username exists, print a
+message stating that the name already exists. Otherwise, add the username to the end of
+the list.
+\n8. Version Control System setup and usage using GIT. Try the following features.
+\n•Creating a repository
+\n•Checking out a repository
+\n•Adding content to the repository
+\n•Committing the data to a repository
+\n•Updating the local copy
+\n•Comparing different revisions
+\n•Revert
+\n•Conflicts and a conflict Resolution
+\n9. Shell script which starts on system boot up and kills every process which uses more than a
+specified amount of memory or CPU.
+\n10. Introduction to packet management system : Given a set of RPM or DEB, build and
+maintain, and serve packages over http or ftp. Configure client systems to access the package
+repository.
+\n11. Perform simple text processing using Perl, Awk.
+\n12. Running PHP : simple applications like login forms after setting up a LAMP stack
+\n13. Virtualisation environment (e.g., xen, kqemu, virtualbox or lguest) to test applications, new
+kernels and isolate applications. It could also be used to expose students to other alternate OS
+such as freeBSD
+\n14. Compiling from source : learn about the various build systems used like the auto* family,
+cmake, ant etc. instead of just running the commands. This could involve the full process like
+fetching from a cvs and also include autoconf, automake etc.,
+\n15. Kernel configuration, compilation and installation : Download / access the latest kernel
+source code from kernel.org, compile the kernel and install it in the local system. Try to view
+the source code of the kernel
+\n16. GUI Programming: Create scientific calculator – using any one of Gambas, GTK, QT
+\n17. Installing various software packages. Either the package is yet to be installed or an older
+version is present. The student can practice installing the latest version. ( Internet access is
+needed).
+\n•Install samba and share files to windows
+\n•Install Common Unix Printing System(CUPS)
+\n18. Set up the complete network interface by configuring services such as gateway, DNS, IP
+tables etc. using ifconfig
+\n\nExpected Outcome
+\n\nStudents will be able to:
+\n1. Identify and apply various Linux commands
+\n2. Develop shell scripts and GUI for specific needs
+\n3. Use tools like GIT, .
+\n4. Perform basic level application deployment, kernel configuration and installation, packet
+management and installation etc.
+  \n\nPre-requisite: CS204 Operating systems
+\n\nCourse Objectives
+        \n\nTo expose students to FOSS environment and introduce them to use open
+source packages in open source platform.\n
+    </string>
+    <string name="digital" formatted="false">
+        CS234 - DIGITAL SYSTEMS LAB
+        \n\nList of Exercises/Experiments
+        \n( minimum 12 exercises/experiments are mandatory)
+\n\n1. Familiarizations and verification of the truth tables of basic gates and universal gates.
+\n2. Verification of Demorgans laws for two variables.
+\n3. Implementation of half adder and full adder circuits using logic gates.
+\n4. Implementation of half subtractor and full subtractor circuits using logic gates.
+\n5. Implementation of parallel adder circuit.
+\n6. Realization of 4 bit adder/subtractor and BCD adder circuits using IC 7483.
+\n7. Implementation of a 2 bit magnitude comparator circuit using logic gates.
+\n8. Design and implementation of code convertor circuits
+\n9. a) BCD to excess 3 code b) binary to gray code
+\n10. Implementation of multiplexer and demultiplexer circuits using logic gates. Familiarization
+with various multiplexer and demultiplexer ICs.
+\n11. Realization of combinational circuits using multiplexer/demultiplexer ICs.
+\n12. Implementation of SR, D, JK, JK master slave and T flip flops using logic gates.
+Familiarization with IC 7474 and IC 7476.
+\n13. Implementation of shift registers using flip flop Integrated Circuits.
+\n14. Implementation of ring counter and Johnson counter using flip flop Integrated Circuits.
+\n15. Realization of asynchronous counters using flip flop ICs.
+\n16. Realization of synchronous counters using flip flop ICs. Familiarization with various
+counter Integrated Circuits.
+\n17. Implementation of a BCD to 7 segment decoder and display.
+\n18. Simulation of Half adder, Full adder using VHDL.
+(Note: The experiments may be done using hardware components and/or VHDL)
+\n\nCourse Outcome
+\n\nStudents will be able to:
+\n1. identify and explain the digital ICs and their use in implementing digital circuits.
+\n2. design and implement different kinds of digital circuits.
+  \n\nPre-requisite: CS203 Switching theory and logic design
+\n\nCourse Objectives
+\n\n1. To familiarize students with digital ICs, the building blocks of digital circuits
+\n2. To provide students the opportunity to set up different types of digital circuits and study
+their behaviour\n
+    </string>
+    <string name="about" formatted="false">
+        \n\n\tDeveloped By :
+        \n\t\t\t\t\t\t\t\tJithin Lal K
+        \n\t\t\t\t\t\t\t\tGEC Thrissur
+        \n\t\t\t\t\t\t\t\tandrojlk25@gmail.com
+        </string>
+    <string name="tcomp" formatted="false">
+        CS301 - THEORY OF COMPUTATION
+        \n\nMODULE 1 - 15%
+        \n\nIntroduction to Automata Theory and its significance.
+Type 3 Formalism: Finite state automata – Properties
+of transition functions, Designing finite automata,
+NFA, Finite Automata with Epsilon Transitions,
+Equivalence of NFA and DFA, Conversion of NFA to
+DFA, Equivalence and Conversion of NFA with and
+without Epsilon Transitions.
+        \n\nMODULE 2 - 15%
+        \n\nMyhill-Nerode
+Theorem,
+Minimal
+State
+FA
+Computation. Finite State Machines with Output-
+Mealy and Moore machine (Design Only), Two- Way
+Finite Automata.
+Regular Grammar, Regular Expressions, Equivalence
+of regular expressions and NFA with epsilon
+transitions. Converting Regular Expressions to NFA
+with epsilon transitions Equivalence of DFA and
+regular expressions, converting DFA to Regular
+Expressions.
+\n\nFIRST INTERNAL EXAM
+\n\nMODULE 3 - 15%
+        \n\nPumping
+Lemma
+for
+Regular
+Languages,
+Applications of Pumping Lemma. Closure Properties
+of Regular sets (Proofs not required), Decision
+Problems related with Type 3 Formalism
+Type 2 Formalism:- Context-Free Languages (CFL),
+Context-Free Grammar (CFG), Derivation trees,
+Ambiguity, Simplification of CFG, Chomsky Normal
+Form, Greibach normal forms
+        \n\nMODULE 4 - 15%
+        \n\nNon-Deterministic Pushdown Automata (NPDA),
+design. Equivalence of acceptance by final state and
+empty stack in PDA. Equivalence between NPDA and
+CFG, Deterministic Push Down Automata, Closure
+properties of CFLs (Proof not required), Decision
+Problems related with Type 3 Formalism.
+
+\n\nSECOND INTERNAL EXAM
+\n\nMODULE 5 - 20%
+        \n\nPumping Lemma for CFLs, Applications of Pumping
+Lemma.
+Type 1 Formalism: Context-sensitive Grammar.
+Linear Bounded Automata (Design not required)
+Type 0 Formalism: Turing Machine (TM) – Basics and
+formal definition, TMs as language acceptors, TMs as
+Transducers, Designing Turing Machines.
+\n\nMODULE 5 - 20%
+        \n\nVariants of TMs -Universal Turing Machine, Multi-
+tape TMs, Non Deterministic TMs, Enumeration
+Machine (Equivalence not required), Recursively
+Enumerable
+Languages,
+Recursive
+languages,
+Properties of Recursively Enumerable Languages and
+Recursive
+Languages,
+Decidability
+and
+Halting
+Problem. Chomsky Hierarchy
+\n\nEND SEMESTER EXAM
+        \n\nQuestion Paper Pattern
+\n\n1. There will be five parts in the question paper – A, B, C, D, E
+\n2. Part A
+\na. Total marks : 12
+\nb. Four questions each having 3 marks, uniformly covering modules I and II;
+\nAllfour questions have to be answered.
+\n3. Part B
+\na. Total marks : 18
+\nb. Threequestions each having 9 marks, uniformly covering modules I and II; Two
+questions have to be answered. Each question can have a maximum of three
+subparts.
+\n4. Part C
+\na. Total marks : 12
+\nb. Four questions each having 3 marks, uniformly covering modules III and IV;
+Allfour questions have to be answered.
+\n5. Part D
+\na. Total marks : 18
+\nb. Threequestions each having 9 marks, uniformly covering modules III and IV;
+Two questions have to be answered. Each question can have a maximum of three
+subparts
+\n6. Part E
+\na. Total Marks: 40
+\nb. Six questions each carrying 10 marks, uniformly covering modules V and VI; four
+questions have to be answered.
+\nc. A question can have a maximum of three sub-parts.
+\n7. There should be at least 60% analytical/numerical questions.
+  \n\nCourse Objectives
+\n\n1. Introduce the concept of formal languages.
+\n2. Discuss the Chomsky classification of formal languages with discussion on grammar and
+automata for regular, context-free, context sensitive and unrestricted languages.
+\n3. Discuss the notions of decidability and halting problem.
+\n\nSyllabus
+\n\nIntroduction to Automata Theory, Structure of an automaton, classification of automata,
+grammar and automata for generating each class of formal languages in the Chomsky
+Hierarchy, decidability and Halting problem.
+\n\nExpected Outcome
+\n\nStudent is able to
+\n1. Classify formal languages into regular, context-free, context sensitive and unrestricted languages.
+\n2. Design finite state automata, regular grammar, regular expression and Myhill- Nerode relation
+representations for regular languages.
+\n3. Design push-down automata and context-free grammar representations for context-free
+languages.
+\n4. Design Turing Machines for accepting recursively enumerable languages.
+\n5. Understand the notions of decidability and undecidability of problems, Halting problem.
+\n\nText Books
+\n\n1.
+John E Hopcroft, Rajeev Motwani and Jeffrey D Ullman, Introduction to Automata
+Theory, Languages, and Computation, 3/e, Pearson Education, 2007
+\n2. John C Martin, Introduction to Languages and the Theory of Computation, TMH, 2007
+\n3. Michael Sipser, Introduction To Theory of Computation, Cengage Publishers, 2013
+\n\nReferences
+\n\n1.
+Dexter C. Kozen, Automata and Computability, Springer1999.\n
+    </string>
+    <string name="ssoft" formatted="false">
+    CS303 - SYSTEM SOFTWARE
+        \n\nMODULE 1 - 15%
+        \n\nIntroduction :
+System Software Vs. Application Software, Different
+System Software– Assembler, Linker, Loader, Macro
+Processor, Text Editor, Debugger, Device Driver,
+Compiler,
+Interpreter, Operating System(Basic
+Concepts only)
+SIC and SIC/XE Architecture, Addressing modes, SIC and
+SIC/XE Instruction set, Assembler Directives and
+Programming.
+        \n\nMODULE 2 - 15%
+        \n\nAssemblers
+Basic Functions of Assembler. Assembler output
+format – Header, Text and End Records- Assembler
+data structures, Two pass assembler algorithm, Hand
+assembly of SIC/XE program, Machine dependent
+assembler features.
+        \n\nFIRST INTERNAL EXAM
+\n\nMODULE 3 - 15%
+        \n\nAssembler design options:
+Machine Independent assembler features – program
+blocks, Control sections, Assembler design options-
+Algorithm for Single Pass assembler, Multi pass
+assembler, Implementation example of MASM
+Assembler
+\n\nMODULE 4 - 15%
+        \n\nLinker and Loader
+Basic Loader functions - Design of absolute loader,
+Simple bootstrap Loader, Machine dependent loader
+features- Relocation, Program Linking, Algorithm and
+data structures of two pass Linking Loader, Machine
+dependent loader features, Loader Design Options.
+\n\nSECOND INTERNAL EXAM
+\n\nMODULE 5 - 20%
+        \n\nMacro Preprocessor:-
+Macro Instruction Definition and Expansion. One pass
+Macro processor Algorithm and data structures,
+Machine Independent Macro Processor Features,
+Macro processor design options
+
+        \n\nMODULE 6 - 20%
+        \n\nDevice drivers:
+Anatomy of a device driver, Character and block
+device drivers, General design of device drivers
+Text Editors:
+Overview of Editing, User Interface, Editor Structure.
+Debuggers :-
+Debugging Functions and Capabilities, Relationship
+with other parts of the system, Debugging Methods- By
+Induction, Deduction and Backtracking.
+\n\nEND SEMESTER EXAM
+    \n\nQuestion Paper Pattern
+\n\n1. There will be five parts in the question paper – A, B, C, D, E
+\n2. Part A
+\na. Total marks : 12
+\nb. Four questions each having 3 marks, uniformly covering modules I and II;
+Allfour questions have to be answered.
+\n3. Part B
+\na. Total marks : 18
+\nb. Three questionseach having 9 marks, uniformly covering modules I and II; Two
+questions have to be answered. Each question can have a maximum of three
+subparts.
+\n4. Part C
+\na. Total marks : 12
+\nb. Four questions each having 3 marks, uniformly covering modules III and IV;
+Allfour questions have to be answered.
+\n5. Part D
+\na. Total marks : 18
+        \nb. Three questions each having 9 marks, uniformly covering modules III and IV;
+\nTwo questions have to be answered. Each question can have a maximum of three
+subparts
+\n6. Part E
+\na. Total Marks: 40
+\nb. Six questions each carrying 10 marks, uniformly covering modules V and VI; four
+questions have to be answered.
+\nc. A question can have a maximum of three sub-parts.
+\n7. There should be at least 60% analytical/numerical questions.
+\n\nCourse Objectives
+\n\nTo make
+students understand the design concepts of various system software like
+Assembler, Linker, Loader and Macro pre-processor, Utility Programs such as Text
+Editor and Debugger.
+\n\nSyllabus
+\n\nDifferent types of System Software, SIC and SIC/XE Architecture and Programming, Basic
+Functions of Assembler, Assembler Design, Single pass and 2 Pass Assemblers and their
+Design,
+Linkers and Loaders, Absolute Loader and Relocating loader, Design of
+Linking Loader, Macro Processor and its design, Fundamentals of Text Editor Design,
+Operational Features of Debuggers
+\n\nExpected Outcome
+\n\nStudent is able to
+\n1. distinguish different software into different categories..
+\n2. design, analyze and implement one pass, two pass or multi pass assembler.
+\n3. design, analyze and implement loader and linker.
+\n4. design, analyze and implement macro processors.
+\n5. critique the features of modern editing /debugging tools.
+  \n\nText book
+\n\n1. Leland L. Beck, System Software: An Introduction to Systems Programming, 3/E,
+Pearson Education Asia.
+References
+\n2. D.M. Dhamdhere, Systems Programming and Operating Systems, Second
+Revised Edition, Tata McGraw Hill.
+\n3. John J. Donovan, Systems Programming, Tata McGraw Hill Edition 1991.
+\n4. Writing UNIX device drivers - George Pajari – Addison Wesley Publications
+(Ebook : http://tocs.ulb.tu-darmstadt.de/197262074.pdf ).
+\n5. Peter Abel, IBM PC Assembly Language and Programming, Third Edition,
+Prentice Hall of India.
+\n6. Jonathan Corbet, Alessandro Rubini, Greg Kroah-Hartman, Linux Device Drivers,
+Third Edition, O.Reilly Books
+\n7. M. Beck, H. Bohme, M. Dziadzka, et al., Linux Kernel Internals, Second Edition,
+Addison Wesley Publications,
+\n8. J Nithyashri, System Software, Second Edition, Tata McGraw Hill.
+\n9. http://gcc.gnu.org/onlinedocs/gcc-2.95.3/cpp_1.html - The C Preprocessor\n
+    </string>
+    <string name="micro" formatted="false">
+        CS305 - MICROPROCESSORS AND MICROCONTROLLERS
+        \n\nMODULE 1 - 15%
+        \n\nEvolution of microprocessors, 8086 Microprocessor -
+Architecture
+Minimum
+and
+and
+signals, Memory
+maximum mode
+organisation,
+of
+operation,
+Minimum mode Timing Diagram. Comparison of 8086
+and 8088.
+\n\nMODULE 2 - 15%
+        \n\n8086 Addressing Modes, 8086 Instruction set and
+Assembler
+Directives
+-
+Assembly
+Language
+Programming with Subroutines, Macros, Passing
+Parameters, Use of stack.
+\n\nFIRST INTERNAL EXAM
+\n\nMODULE 3 - 15%
+        \n\nInterrupts - Types of Interrupts and Interrupt Service
+Routine. Handling Interrupts in 8086, Interrupt
+programming. Basic Peripherals and their Interfacing
+with 8086 - Programmable Interrupt Controller - 8259 -
+Architecture.
+
+        \n\nMODULE 4 - 15%
+        \n\nInterfacing Memory, I/O, 8255 - Detailed study -
+Architecture, Control word format and modes of
+operation,
+Architecture and modes of operation of
+8279 and 8257 (Just mention the control word, no need
+to memorize the control word format)
+\n\nSECOND INTERNAL EXAM
+        \n\nMODULE 5 - 20%
+        \n\nMicrocontrollers - Types of Microcontrollers - Criteria
+for selecting a microcontroller - Example Applications.
+Characteristics and Resources of a microcontroller.
+Organization and design of these resources in a typical
+microcontroller - 8051.
+8051 Architecture, Register Organization, Memory and
+I/O addressing, Interrupts and Stack.
+\n\nMODULE 6 - 20%
+        \n\n8051
+Addressing
+Modes,
+Different
+types
+of
+instructions and Instruction Set, Simple programs.
+Peripheral Chips for timing control - 8254/8253.
+\n\nEND SEMESTER EXAM
+        \n\nQuestion Paper Pattern
+\n\n1. There will be five parts in the question paper – A, B, C, D, E
+\n2. Part A
+\na. Total marks : 12
+\nb. Four questions each having 3 marks, uniformly covering modules I and II; Allfour
+questions have to be answered.
+\n3. Part B
+\na. Total marks : 18
+\nb. Threequestions each having 9 marks, uniformly covering modules I and II; Two
+questions have to be answered. Each question can have a maximum of three
+subparts.
+\n4. Part C
+\na. Total marks : 12
+        \nb. Four questions each having 3 marks, uniformly covering modules III and IV;Allfour
+questions have to be answered.
+\n5. Part D
+\na. Total marks : 18
+\nb. Threequestionseach having 9 marks, uniformly covering modules III and IV; Two
+questions have to be answered. Each question can have a maximum of three
+subparts
+\n6. Part E
+\na. Total Marks: 40
+\nb. Six questions each carrying 10 marks, uniformly covering modules V and VI; four
+questions have to be answered.
+\nc. A question can have a maximum of three sub-parts.
+\n7. There should be at least 60% analytical/numerical questions.
+  \n\nPre-requisites
+\n\n1. BE 101-05 Introduction to Computing and Problem Solving
+\n2. CS203 Switching Theory and Logic Design
+\n3. CS202 Computer Organization and Architecture
+\n\nCourse Objectives
+\n\n1. To impart basic understanding of the internal organisation of 8086 Microprocessor and 8051
+microcontroller.
+\n2. To introduce the concepts of interfacing microprocessors with external devices.
+\n3. To develop Assembly language programming skills.
+\n\nSyllabus
+\n\nIntroduction to 8086 Microprocessor; Architecture and signals, Instruction set of 8086, Timing
+Diagram, Assembly Language Programming, Memory and I/O interfacing, Interfacing with 8255,
+8279, 8257, Interrupts and Interrupt handling, Microcontrollers - 8051 Architecture and its salient
+features, Instruction Set and Simple Programming Concepts.
+\n\nExpected Outcome
+\n\nStudent is able to
+\n1. Describe different modes of operations of a typical microprocessor and microcontroller.
+\n2. Design and develop 8086 assembly language programs using software interrupts and various
+assembler directives.
+\n3. Interface microprocessors with various external devices.
+\n4. Analyze and compare the features of microprocessors and microcontrollers.
+\n5. Design and develop assembly language programs using 8051 microcontroller.\n
+    </string>
+</resources>
